@@ -8,3 +8,5 @@ Copyright: (C) 2020 T.Masuda
 絶賛作成中 working bugbugbug バグ 権限？ 権限付与コマンドミス？ 今度こそ！.
 
 check dir delete.
+
+9/20 2回目。
