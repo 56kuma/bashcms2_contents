@@ -5,4 +5,4 @@ Copyright: (C) 2020 T.Masuda
 
 # bashcms2
 
-絶賛作成中 working bugbugbug.
+絶賛作成中 working bugbugbug バグ.
