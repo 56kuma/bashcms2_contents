@@ -10,3 +10,5 @@ Copyright: (C) 2020 T.Masuda
 check dir delete.
 
 9/20 2回目。
+
+9/21。
