@@ -1,6 +1,6 @@
 ---
 keyword: ネギ
-Copyright: (C) 2017 Takuma Masuda
+Copyright: (C) 2020 T.Masuda
 ---
 
 # ネギネギネギ ねぎねぎねぎ
@@ -8,6 +8,7 @@ Copyright: (C) 2017 Takuma Masuda
 - らーめんらーめんらーまんらーめんラーメンめんまメンマ
 
 * [白ネギへジャンプ](#white)
+
 
 ## 青ネギ
 
