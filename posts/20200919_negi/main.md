@@ -1,5 +1,5 @@
 ---
-keyword: ネギ
+keyword: ネギ, 青ネギ, 白ネギ
 Copyright: (C) 2020 T.Masuda
 ---
 
