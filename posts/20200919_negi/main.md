@@ -1,5 +1,5 @@
 ---
-keyword: ねぎ, ネギ, 青ネギ, 白ネギ
+keyword: ねぎ, ネギ, 青ネギ, 白ネギ, 刻み葱
 Copyright: (C) 2020 T.Masuda
 ---
 
