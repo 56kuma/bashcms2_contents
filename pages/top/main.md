@@ -1,5 +1,5 @@
 ---
-Keywords: bashcms2, bash
+Keywords: bashcms2, bash, sns
 Copyright: (C) 2020 T.Masuda
 ---
 
@@ -51,4 +51,4 @@ check dir delete.
 
 1/24  1,2,3,4
 
-1/25  1
+1/25  1,2
