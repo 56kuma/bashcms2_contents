@@ -1,8 +1,8 @@
 ---
-Keywords: bashcms2, bash, sns
+Keywords:
 Copyright: (C) 2020 T.Masuda
 ---
 
-### bashcms2
+# title
 
-temp 意図せぬ赤文字
+Write contents here.
