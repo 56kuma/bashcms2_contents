@@ -5,4 +5,4 @@ Copyright: (C) 2020 T.Masuda
 
 # bashcms2
 
-temp
+temp 意図せぬ赤文字
