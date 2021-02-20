@@ -1,47 +1,15 @@
 ---
-Keywords: bashcms2, bash
+Keywords:
 Copyright: (C) 2020 T.Masuda
 ---
 
-# bashcms2
+# title
 
-絶賛作成中 working bugbugbug バグ 権限？ 権限付与コマンドミス？ 今度こそ！.
+Write contents here.
 
-check dir delete.
+2/11
 
-9/20 2回目。
+2/13 aaabbb
 
-9/21。
-
-9/21 2回目。
-
-9/21 3回目
-
-9/21 4回目
-
-9/22
-
-9/22 2回目
-
-9/22 3回目
-
-9/23 4回目
-
-9/23 5回目
-
-9/23 6回目 7 8 9 10 11 12
-
-9/24
-
-9/24 2回目
-
-9/24 3回目
-
-9/24 4回目
-
-9/25 5回目
-
-9/26 6回目
-
-9/27 7回目 8 9 10 11 12
+2/20 aaa
 
