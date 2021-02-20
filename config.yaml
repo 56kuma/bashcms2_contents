@@ -1,0 +1,5 @@
+links:
+- text: 'top'
+  href: '/?page=top'
+- text: '開発日誌（ブログ）'
+  href: '/?post'
