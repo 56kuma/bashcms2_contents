@@ -3,3 +3,9 @@ links:
   href: '/?page=top'
 - text: '開発日誌（ブログ）'
   href: '/?post'
+- text: '外部サイト'
+  href: './'
+  sublinks:
+  - text: 'Google'
+    href: 'https://www.google.com/?hl=ja'
+
