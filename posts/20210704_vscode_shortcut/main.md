@@ -3,7 +3,7 @@ Keywords: VSCode, VisualStudioCode
 Copyright: (C) 2021 T.Masuda
 ---
 
-# ショートカット
+# VSCode ショートカット
 
 ターミナルを開く
 > ctrl + @
@@ -16,3 +16,4 @@ Explorer ⇔ ファイル編集
 
 分割
 > Ctrl + \
+
