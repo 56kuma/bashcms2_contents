@@ -1,5 +1,5 @@
 ---
-Keywords: Book, 
+Keywords: Book 
 Copyright: (C) 2021 T.Masuda
 ---
 
