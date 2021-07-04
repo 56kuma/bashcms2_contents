@@ -5,6 +5,9 @@ Copyright: (C) 2021 T.Masuda
 
 # VSCode ショートカット
 
+ショートカット一覧の表示
+> Ctrl + k ⇒ Ctrl + s
+
 ターミナルを開く
 > ctrl + @
 
