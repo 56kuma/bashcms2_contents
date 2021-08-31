@@ -20,3 +20,9 @@ Explorer ⇔ ファイル編集
 分割
 > Ctrl + \
 
+コードの折り畳み
+> Ctrl + Shift + [
+
+コードの展開
+> Ctrl + Shift + ]
+
