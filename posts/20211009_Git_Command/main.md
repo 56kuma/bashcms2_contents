@@ -2,7 +2,7 @@
 Keywords: Git
 Copyright: (C) 2021 T.Masuda
 ---
-# Command
+# Git Command
 
 変更ファイルがあるかの確認
 
