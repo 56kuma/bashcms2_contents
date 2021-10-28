@@ -7,3 +7,6 @@ Copyright: (C) 2021 T.Masuda
 
 形式を選択して貼り付け
 > Ctrl + Alt + v
+
+シートの追加
+> Alt + i -> w
