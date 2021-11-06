@@ -26,3 +26,5 @@ Explorer ⇔ ファイル編集
 コードの展開
 > Ctrl + Shift + ]
 
+選択行をコピー&ペースト
+> Ctrl + Alt + ↓
