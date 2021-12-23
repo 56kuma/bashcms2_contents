@@ -8,6 +8,11 @@ Copyright: (C) 2021 T.Masuda
 
 > git status
 
+ブランチの切り替え
+
+> git checkout [ブランチ名]
+
+
 Staging 環境への以降
 
 > git add ./
