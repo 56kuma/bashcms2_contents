@@ -4,7 +4,7 @@ Copyright: (C) 2022 T.Masuda
 ---
 ## 目的
 
-* 1文字以上かつ、半角英数時
+* 正規表現にて、半角数値かつ1文字以上の条件に合致する構文
 
 ## ソース
 ```
@@ -19,8 +19,14 @@ isHalfWidthNumber('123')
 ## 補足
 
 * 正規表現
-  * [0-9] … 任意の数値
-  * + … 直前の文字を１回以上繰り返す。
+  * [0-9] … 任意の半角数値
+  * \+ … 直前の文字を１回以上繰り返す。
 
+## こんな時どーする？
 
+* 半角数値では無く、全角数値とする場合
+  * [0-9] の代わりに [０-９]
 
+## 参考
+
+[https://docs.python.org/3/library/re.html#re.fullmatch](https://docs.python.org/3/library/re.html#re.fullmatch)
