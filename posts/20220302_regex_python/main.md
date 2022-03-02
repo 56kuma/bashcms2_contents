@@ -11,6 +11,7 @@ Copyright: (C) 2022 T.Masuda
 
 ### ソース
 ```
+
 import re
 
 def isHalfWidthNumber(target):
