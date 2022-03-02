@@ -4,25 +4,28 @@ Copyright: (C) 2021 T.Masuda
 ---
 # Git Command
 
-変更ファイルがあるかの確認
+* 変更ファイルがあるかの確認
+```
+git status
+```
 
-> git status
+* ブランチの切り替え
+```
+git checkout [ブランチ名]
+```
 
-ブランチの切り替え
+* Staging 環境への移行
+```
+git add ./
+```
 
-> git checkout [ブランチ名]
+* コミット
+  * -m ：message, コミットメッセージの付与
+``` 
+git commit
+```
 
-
-Staging 環境への以降
-
-> git add ./
-
-コミット
-
-* -m ：message, コミットメッセージの付与 
-
-> git commit
-
-リモートリポジトリへプッシュ
-
-> git push
+* リモートリポジトリへプッシュ
+```
+git push
+```
