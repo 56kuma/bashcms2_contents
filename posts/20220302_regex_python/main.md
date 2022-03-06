@@ -10,8 +10,7 @@ Copyright: (C) 2022 T.Masuda
 * 正規表現にて、半角数値かつ1文字以上の条件に合致する構文
 
 ### ソース
-``` python
-
+```
 import re
 
 def isHalfWidthNumber(target):
