@@ -3,9 +3,7 @@ Keywords:
 Copyright: (C) 2021 T.Masuda
 ---
 
-<title>hogehoge<title>
-
-## Top
+# Top
 
 
 日々の出来事の中で、何を思ったかを言葉として、文章として残したいという願望からこのブログを始めました。
