@@ -4,8 +4,8 @@ Copyright: (C) 2021 T.Masuda
 ---
 # Git Command
 
-* 変更ファイルがあるかの確認
-```
+```Git
+# 変更ファイルがあるかの確認
 git status
 ```
 
