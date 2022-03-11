@@ -21,9 +21,7 @@ Copyright: (C) 2022 T.Masuda
 * Oracle Client 19c 
 * AWS RDS
 
-### Oracle Client 設定
-
-#### Install
+### Oracle Client インストール ~ 設定
 
 ##### 1. 以下のLINKから必要なパッケージ①、②をインストール。
   *  [https://www.oracle.com/jp/database/technologies/instant-client/winx64-64-downloads.html](https://www.oracle.com/jp/database/technologies/instant-client/winx64-64-downloads.html)
