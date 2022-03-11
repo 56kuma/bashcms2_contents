@@ -3,7 +3,7 @@ Keywords: Python, Map
 Copyright: (C) 2022 T.Masuda
 ---
 
-# Python 正規表現
+# Python Map関数 - List値をまとめて型変換 -
 
 ### 目的
 
@@ -12,7 +12,6 @@ Copyright: (C) 2022 T.Masuda
 ### ソース
 
 ```python
-
 str_list = ['100', '200', '300']
 str_list_map = list(map(int, str_list))
 
