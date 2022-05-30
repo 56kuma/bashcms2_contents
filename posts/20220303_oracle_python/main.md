@@ -45,7 +45,7 @@ Copyright: (C) 2022 T.Masuda
 
 Writing
 
-* "CX_oracle"を使うには、事前いOracle Clientのセットアップをしておくことが必須
+* "CX_oracle"を使うには、事前にOracle Clientのセットアップをしておくことが必須
 
 ### AWS RDS
 
