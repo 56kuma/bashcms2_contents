@@ -21,8 +21,10 @@ Copyright: (C) 2022 T.Masuda
 Chromeがインストール済であることを前提とする。
 
 1. Chromeを起動し次のLINKを開く。[DeepL翻訳 拡張機能](https://chrome.google.com/webstore/detail/deepl-translate-beta-vers/cofdbpoegempjloogbagkncekinflcnj?hl=ja)
+
 2. LINK先の画面で⓵をクリック -> ⓶をクリック。
 * ![DeepL_1](./DeepL_1.drawio.png)
+
 3. 以下赤枠の画面が表示され、拡張機能が使えるようになる。
 * ![DeepL_2](./DeepL_2.drawio.png)
 
