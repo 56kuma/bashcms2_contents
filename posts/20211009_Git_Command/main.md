@@ -50,4 +50,7 @@ git commit
 
 # リモートリポジトリへプッシュ
 git push
+
+# ブランチの削除
+git branch -d [branch_name]
 ```
