@@ -1,19 +1,22 @@
 ---
-Keywords: Linux, Ubuntu, Python, Venv
+Keywords: Linux, Ubuntu, Python, venv
 Copyright: (C) 2022 T.Masuda
 ---
-# Ubuntu に venv
+# Ubuntu 22.04 に venv
 
 ## 参考
 * https://hirooka.pro/python-venv-ubuntu-20-04/
 * https://www.nemotos.net/?p=4502
 
-## ???
-* [ ] pip, pip3の違い
-* [X] apt "y"オプション
-  * 問い合わせがあった場合は全て「y」
+## 概要
+Ubuntu22.04にPython仮想環境「venv」を設定した時のメモ。
 
-## python のバージョン確認
+## 目次
+1. Python のバージョン確認
+2. pip インストール
+3. venvのインストール
+
+## 1. Python のバージョン確認
 ``` cmd
 <!-- python2 は無かった -->
 which python2
@@ -26,8 +29,9 @@ python3 --version
 > python 3.10.4
 ```
 
-## pip インストール 
+## 2. pip インストール 
 * pipがインストールされていなければインストール
+
 ``` cmd
 <!-- インストールされていない場合 -->
 pip
@@ -42,14 +46,14 @@ which pip3
 > /usr/bin/pip3
 ```
 
-## venv インストール
+## 3. venv インストール
 * python3-venv パッケージをインストールし仮想環境を作成
 
 ``` cmd
 <!-- python3-venv パッケージのインストール -->
 sudo apt install -y python3-venv
 
-<!-- ホームディレクトリ直下「_Python」にdevという仮想環境を作成 -->
+<!-- ホームディレクトリ直下「python」にdevという仮想環境を作成 -->
 python3 -m venv ~/python/dev
 
 <!-- venv環境に入る -->
@@ -57,6 +61,5 @@ source ~/python/dev/bin/activate
 
 <!-- venv環境から抜ける -->
 deactivate
-
 ```
 
