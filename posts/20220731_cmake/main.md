@@ -4,7 +4,7 @@ Copyright: (C) 2022 T.Masuda
 ---
 # CMakeとは？
 
-## 目次
+### 目次
 
 1. 概要
 2. 参考サイト
@@ -12,14 +12,14 @@ Copyright: (C) 2022 T.Masuda
 4. お作法とその確認
 
 
-## 1. 概要
+### 1. 概要
 * CMakeLists.txt を作成し、それを あ で実行すれば解釈してMakefileやプロジェクト・ファイル（*.proj）を生成してくれる。 
 
-## 2.参考サイト
+### 2.参考サイト
 * https://theolizer.com/theolizer/cmake_and_cmakelists/
 * https://theolizer.com/cpp-school1/cpp-school1-3/#install_tools
 
-## 3.Install
+### 3.Install
 ```bash
 <!-- ダウンロード -->
 sudo apt-get install cmake
@@ -28,7 +28,7 @@ cmake --version
 < cmake version 3.16.3
 ```
 
-## 4.お作法
+### 4.お作法
 * 実行時は CMakeLists.txt と同じ階層にビルド用のフォルダ(buildなど)、を作成して実行する。build用に生成されるファイルが多く、ソース管理が面倒になる原因となるので、これらのファイルを別途フォルダを切って保存するのが吉。
 * CMakeLists.txt の実行
 ```bash 
