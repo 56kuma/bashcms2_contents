@@ -2,10 +2,10 @@
 Keywords: Linux, Ubuntu, Command, コマンド, bash, 変数展開
 Copyright: (C) 2022 T.Masuda
 ---
-# SCPコマンドの使い方
+# bashの変数展開
 
 ### 目次
-- [SCPコマンドの使い方](#scpコマンドの使い方)
+- [bashの変数展開](#bashの変数展開)
     - [目次](#目次)
     - [1. 概要](#1-概要)
     - [2.参考サイト](#2参考サイト)
@@ -13,8 +13,8 @@ Copyright: (C) 2022 T.Masuda
 
 
 ### 1. 概要
-* bashの機能で連番のファイル名を作成
-* 変数展開（シーケンス展開）という機能を使っているそうだ
+* 変数展開（シーケンス展開）という機能を用いる
+* 連番のファイル名を作成する時に使えそう
 
 ### 2.参考サイト
 * https://www.linuxjournal.com/content/bash-brace-expansion
