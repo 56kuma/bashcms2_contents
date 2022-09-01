@@ -1,5 +1,5 @@
 ---
-Keywords: Linux, Ubuntu, Command, コマンド
+Keywords: Linux, Ubuntu, Command, コマンド, bash, 変数展開
 Copyright: (C) 2022 T.Masuda
 ---
 # SCPコマンドの使い方
@@ -13,28 +13,23 @@ Copyright: (C) 2022 T.Masuda
 
 
 ### 1. 概要
-* scpコマンドにて、レンタルサーバ（Linux）上にあるファイルを、ホストPC（WSL2）へコピー
+* bashの機能で連番のファイル名を作成
+* 変数展開（シーケンス展開）という機能を使っているそうだ
 
 ### 2.参考サイト
-* https://docs.docker.jp/v19.03/machine/reference/scp.html
+* https://www.linuxjournal.com/content/bash-brace-expansion
 
 ### 3.コマンド例
-* 前提条件
-    * sshコマンドで、コピー元のPCへアクセスできる状態であること。
-
-* コピー元
-    * レンタルサーバ先のホスト名IP/アドレス -> hoge@153.126.182.197
-    * コピー対象ファイル -> ~/work/hoge.md
-    * コピー対象フォルダ -> ~/work 
-* コピー先
-    * カレントディレクトリ -> ./
 
 ```/bin/bash
 # 実行コマンド
-scp hoge@153.126.182.197:~/work/hoge.md ./
-< hoge.md
+echo {01..10}
+> 01 02 03 04 05 06 07 08 09 10
 
-# フォルダ指定の場合, -r オプションを追加
-scp -r hoge@153.126.182.197:~/work ./
+echo {a..f}
+> a b c d e f
 
+touch {a..f}.csv
+ls
+> a.csv  b.csv  c.csv  d.csv  e.csv  f.csv> 
 ```
