@@ -98,9 +98,10 @@ int main(){
 ```
 
 ### 4. コンパイル
-* 登場した3ファイルが c:\sample に格納されているとする。
+* 登場した3ファイルが c:\sample に格納されていることを前提
 * -o … 出力ファイルの名前を指定できる、今回は"hoge"が出力
 * .hppはコンパイルしなくてもOK
+
 ```cmd
 cd c:\sample
 g++ -std=c++17 -o hoge main.cpp check.cpp
