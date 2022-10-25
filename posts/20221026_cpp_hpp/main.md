@@ -30,6 +30,7 @@ flowchart TD
 
 ### 3. サンプルソース
 * check.hpp
+
 ``` c++
 #include <string>
 #include <iostream>
@@ -74,6 +75,7 @@ void Check::displayStr(const std::string &displayStr){
 ```
 
 * main.hpp
+
 ``` c++
 #include "check.hpp"
 int main(){
