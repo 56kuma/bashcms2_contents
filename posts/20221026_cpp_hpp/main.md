@@ -35,7 +35,7 @@ flowchart TD
 #include <string>
 #include <iostream>
 
-class Check_hpp {
+class Check {
   public:
     // メンバー定数
     static const std::string CAMERA_NAME;
