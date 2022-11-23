@@ -9,7 +9,6 @@ Copyright: (C) 2022 T.Masuda
     - [目次](#目次)
     - [1. 概要](#1-概要)
     - [2. サンプルファイル各々の関係](#2-サンプルファイル各々の関係)
-    - [test](#test)
     - [3. サンプルソース](#3-サンプルソース)
     - [4. コンパイル](#4-コンパイル)
     - [5. 実行コマンド \& 結果](#5-実行コマンド--結果)
@@ -21,23 +20,11 @@ Copyright: (C) 2022 T.Masuda
 
 ### 2. サンプルファイル各々の関係
 * 矢印先が include しているファイルとなる。
-
-<div class="mermaid">
-  graph TB;
-  A --> B;
-</div>
-
+<!-- 1行あける必要あり -->
 <div class="mermaid">
   graph TB;
   main.cpp --> check.hpp;
   check.cpp --> check.hpp;
-</div>
-
-### test
-
-<div class="mermaid">
-  graph TB;
-  A --> B;
 </div>
 
 ### 3. サンプルソース
