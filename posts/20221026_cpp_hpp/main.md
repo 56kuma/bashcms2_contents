@@ -9,6 +9,7 @@ Copyright: (C) 2022 T.Masuda
     - [目次](#目次)
     - [1. 概要](#1-概要)
     - [2. サンプルファイル各々の関係](#2-サンプルファイル各々の関係)
+    - [test](#test)
     - [3. サンプルソース](#3-サンプルソース)
     - [4. コンパイル](#4-コンパイル)
     - [5. 実行コマンド \& 結果](#5-実行コマンド--結果)
@@ -25,6 +26,34 @@ graph TB
 main.cpp --> check.hpp
 check.cpp --> check.hpp
 ```
+
+### test
+```mermaid
+graph LR
+  A[起床] --> B[朝食]
+  B --> C[作業]
+  C --> D[昼食]
+  D --> E[作業]
+  E --> F[夕飯]
+  F --> G[就寝]
+  G --> A
+```
+
+```mermaid
+graph TD
+  A[Christmas] -->|Get money| B(Go shopping)
+  B --> C{Let me think}
+  C -->|One| D[Laptop]
+  C -->|Two| E[iPhone]
+  C -->|Three| F[fa:fa-car Car]
+```
+
+```mermaid
+graph TB
+main.cpp --> check.hpp
+check.cpp --> check.hpp
+```
+
 
 ### 3. サンプルソース
 * check.hpp
