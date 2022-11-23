@@ -20,11 +20,16 @@ Copyright: (C) 2022 T.Masuda
 
 ### 2. サンプルファイル各々の関係
 * 矢印先が include しているファイルとなる。
-<!-- 1行あける必要あり -->
+
 <div class="mermaid">
   graph TB;
   main.cpp --> check.hpp;
   check.cpp --> check.hpp;
+</div>
+
+<div class="mermaid">
+  graph TB;
+  A --> B;
 </div>
 
 ### 3. サンプルソース
