@@ -27,11 +27,6 @@ Copyright: (C) 2022 T.Masuda
   check.cpp --> check.hpp;
 </div>
 
-<div class="mermaid">
-  graph TB;
-  A --> B;
-</div>
-
 ### 3. サンプルソース
 * check.hpp
 
