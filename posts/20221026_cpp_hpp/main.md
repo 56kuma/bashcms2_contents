@@ -11,7 +11,7 @@ Copyright: (C) 2022 T.Masuda
     - [2. サンプルファイル各々の関係](#2-サンプルファイル各々の関係)
     - [3. サンプルソース](#3-サンプルソース)
     - [4. コンパイル](#4-コンパイル)
-    - [5. 実行コマンド & 結果](#5-実行コマンド--結果)
+    - [5. 実行コマンド \& 結果](#5-実行コマンド--結果)
 
 
 ### 1. 概要
@@ -20,13 +20,13 @@ Copyright: (C) 2022 T.Masuda
 
 ### 2. サンプルファイル各々の関係
 * 矢印先が include しているファイルとなる。
-```mermaid
+<div class="mermaid">
 flowchart TD
   main.cpp --> check.hpp
   subgraph 　
   check.cpp --> check.hpp
   end
-``` 
+<div>
 
 ### 3. サンプルソース
 * check.hpp
