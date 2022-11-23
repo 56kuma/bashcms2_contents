@@ -21,11 +21,9 @@ Copyright: (C) 2022 T.Masuda
 ### 2. サンプルファイル各々の関係
 * 矢印先が include しているファイルとなる。
 <div class="mermaid">
-flowchart TD
-  main.cpp --> check.hpp
-  subgraph 　
-  check.cpp --> check.hpp
-  end
+graph TB
+main.cpp --> check.hpp
+check.cpp --> check.hpp
 <div>
 
 ### 3. サンプルソース
