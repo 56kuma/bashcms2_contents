@@ -117,6 +117,5 @@ cd c:\sample
 > 111
 > --- static method ---
 > displayInt:     123
-> displayStr:     hogehoge
 > displayStr:     Discount Item.
 ```
