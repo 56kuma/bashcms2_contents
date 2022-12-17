@@ -9,9 +9,9 @@ Copyright: (C) 2022 T.Masuda
     - [目次](#目次)
     - [1. 概要](#1-概要)
     - [2. Developブランチマージ前](#2-developブランチマージ前)
-    - [2. merge実行時](#2-merge実行時)
-    - [3. rebase実行時](#3-rebase実行時)
-    - [4. 参考書籍](#4-参考書籍)
+    - [3. merge実行時](#3-merge実行時)
+    - [4. rebase実行時](#4-rebase実行時)
+    - [5. 参考書籍](#5-参考書籍)
 
 
 ### 1. 概要
@@ -32,8 +32,9 @@ Copyright: (C) 2022 T.Masuda
         commit id:"refactor) Button Name"
 </div>
 
-### 2. merge実行時
+### 3. merge実行時
 * これまでのDevelopブランチのコミットIDは ```維持（変わらない）``` 。
+
 <div class="mermaid">
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Main'}} }%%
       gitGraph
@@ -48,8 +49,9 @@ Copyright: (C) 2022 T.Masuda
         merge Main
 </div>
 
-### 3. rebase実行時
+### 4. rebase実行時
 * これまでのDevelopブランチのコミットIDは ```変更（新しく採番される）``` 。
+
 <div class="mermaid">
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Main'}} }%%
       gitGraph
@@ -62,5 +64,5 @@ Copyright: (C) 2022 T.Masuda
         commit id:"refactor) Button Name **"
 </div>
 
-### 4. 参考書籍
+### 5. 参考書籍
 * [改訂2版 わかばちゃんと学ぶ Git使い方入門 Kindle版](https://www.amazon.co.jp/%E6%94%B9%E8%A8%822%E7%89%88-%E3%82%8F%E3%81%8B%E3%81%B0%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E5%AD%A6%E3%81%B6-Git%E4%BD%BF%E3%81%84%E6%96%B9%E5%85%A5%E9%96%80-%E6%B9%8A%E5%B7%9D%E3%81%82%E3%81%84-ebook/dp/B096TH798S/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1OEP59IF8OEW0&keywords=git+%E3%82%8F%E3%81%8B%E3%81%B0&qid=1671272425&sprefix=git+%E3%82%8F%E3%81%8B%E3%81%B0%2Caps%2C174&sr=8-1)
