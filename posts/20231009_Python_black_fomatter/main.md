@@ -25,15 +25,15 @@ Python 3.8.10
 ```
 
 2. 拡張機能 > 「Black」をインストール
-    * ![2.dio.png](./2.dio.png)
+![2.dio.png](./2.dio.png)
 
 
-3. VSCodeでsetting.jsonを開く
+1. VSCodeでsetting.jsonを開く
 Ctrl + Shift + P -> Preferences Open User Settings (JSON) を選択。
-    * ![3.dio.png](./3.dio.png)
+![3.dio.png](./3.dio.png)
 
 
-4. VSCodeで「Black」をデフォルトに設定
+1. VSCodeで「Black」をデフォルトに設定
 手順３で開いたJsonファイルに以下を追記し、保存する。
 ```json
 "[python]": {
@@ -41,17 +41,17 @@ Ctrl + Shift + P -> Preferences Open User Settings (JSON) を選択。
 },
 ```
 
-5. 設定確認。適当なpythonファイル(.py)を作成し、VSCode上で開き、右クリック -> Format Document With をクリック。
+1. 設定確認。適当なpythonファイル(.py)を作成し、VSCode上で開き、右クリック -> Format Document With をクリック。
 Blackの横に(default)と書かれていることがわかる。
-    * ![5.dio.png](./5.dio.png)
+![5.dio.png](./5.dio.png)
 
 
 ### 5.使い方
 1. 対象のPythonファイルを開く > 右クリック > Format Document
 2. 対象のPythonファイルを開く > Shift + Alt + F
 
-### 6.使い方
-* ![6.gif](./5.dio.png)
+### 6.フォーマッタ実行例
+![6.gif](./5.dio.png)
 
 
 
