@@ -43,7 +43,7 @@ Ctrl + Shift + P -> Preferences Open User Settings (JSON) を選択。
 
 1. 設定確認。適当なpythonファイル(.py)を作成し、VSCode上で開き、右クリック -> Format Document With をクリック。
 Blackの横に(default)と書かれていることがわかる。
-![5.dio.png](./5.dio.png)
+![5.dio.png](./6.gif)
 
 
 ### 5.使い方
