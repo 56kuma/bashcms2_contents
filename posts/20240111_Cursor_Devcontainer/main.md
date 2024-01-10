@@ -1,5 +1,5 @@
 ---
-Keywords: Editor, Cursor, Devcontainer, Docker
+Keywords: Editor, Cursor, Devcontainer, devcontainer, Docker, AIエディタ, 拡張機能
 Copyright: (C) 2024 T.Masuda
 ---
 # CursorエディタでDevcontainerが使えるようになったので動作確認してみた
