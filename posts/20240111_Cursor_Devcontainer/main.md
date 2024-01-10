@@ -11,9 +11,11 @@ Copyright: (C) 2024 T.Masuda
 ### 2. 経緯
 * Cursorの該当Issueである[Dev - containers extension not working](https://github.com/getcursor/cursor/issues/718)を定期的にチェックしていた。
 * 2days ago（2024/1/8）に対応完了し、Version 0.22 から起動するようになったコメントを発見したので試してみた。
+    ![0.dio.png](./0.dio.png)
 
 ### 3. 参考
- [Obsidian公式](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian)
+* [該当Issue](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian)
+* [Cursor Official Install](https://cursor.sh/)
 
 ### 4. 前提
 * 対象OS：Winddows 11
