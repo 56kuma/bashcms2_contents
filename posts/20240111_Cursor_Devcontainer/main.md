@@ -27,13 +27,13 @@ Copyright: (C) 2024 T.Masuda
 Cursorエディタのインストール > Cursorのバージョン確認 > [Dev Container Try Python](https://github.com/microsoft/vscode-remote-try-python)の起動
 
 
-1. [公式サイト](https://cursor.sh/)にて、**Download for Windowsw**をクリック。最新バージョンがDLされるはず。
+1. [公式サイト](https://cursor.sh/)にて、**Download for Windows**をクリック。最新バージョンがDLされるはず。
     ![1.dio.png](./1.dio.png)
 
 2. ダウンロードしたインストーラを、**管理者として実行**を選択して起動する。
     ![2.dio.png](./2.dio.png)
 
-3. インストール完了後は、Cursorエディタを起動しバージョンを確認、以下の**About**をクリックする。
+3. インストール完了後は、Cursorエディタを起動しバージョン確認。以下**About**をクリックする。
     ![3.dio.png](./3.dio.png)
 
 4. Version.**0.22.1**だったことが確認できた。
