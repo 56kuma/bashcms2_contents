@@ -11,22 +11,21 @@ Copyright: (C) 2022 T.Masuda
     - [2. サンプルファイル各々の関係](#2-サンプルファイル各々の関係)
     - [3. サンプルソース](#3-サンプルソース)
     - [4. コンパイル](#4-コンパイル)
-    - [5. 実行コマンド & 結果](#5-実行コマンド--結果)
+    - [5. 実行コマンド \& 結果](#5-実行コマンド--結果)
 
 
 ### 1. 概要
 * C++において、hppファイルの在り方とコンパイル方法を記載
-* main.cpp が起動ファイル、かつ check.cpp / check.hpp を読み込んでいるとしたら、各ファイルがのソースがどのように関係しているかを知りたかった
+* main.cpp が起動ファイル、かつ check.cpp / check.hpp を読み込んでいるとしたら、各ファイルがのソースがどのように関係しているかを知るのが目的
 
 ### 2. サンプルファイル各々の関係
 * 矢印先が include しているファイルとなる。
-```mermaid
-flowchart TD
-  main.cpp --> check.hpp
-  subgraph 　
-  check.cpp --> check.hpp
-  end
-``` 
+
+<div class="mermaid">
+  graph TB;
+  main.cpp --> check.hpp;
+  check.cpp --> check.hpp;
+</div>
 
 ### 3. サンプルソース
 * check.hpp
@@ -118,6 +117,5 @@ cd c:\sample
 > 111
 > --- static method ---
 > displayInt:     123
-> displayStr:     hogehoge
 > displayStr:     Discount Item.
 ```
