@@ -5,8 +5,7 @@ Copyright: (C) 2024 T.Masuda
 # CursorエディタでDevcontainerが使えるようになったので動作確認してみた
 
 ### 1. 概要
-* AIエディタと言われる**Cursor**で、Devcontainerが使えるようになったので試す。
-* Markdownファイルで動作する作成ソフトであるObsidianをWindows上でインストールする方法を記載
+* AIエディタと言われる**Cursor**で、[Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers)が使えるようになったので試す。
 
 ### 2. 経緯
 * Cursorの該当Issueである[Dev - containers extension not working](https://github.com/getcursor/cursor/issues/718)を定期的にチェックしていた。
