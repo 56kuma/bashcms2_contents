@@ -30,7 +30,8 @@ Copyright: (C) 2022 T.Masuda
 ### 3. サンプルソース
 * check.hpp
 
-``` c++
+``` c
+
 #include <string>
 #include <iostream>
 
@@ -101,13 +102,14 @@ int main(){
 * -o … 出力ファイルの名前を指定できる、今回は"hoge"が出力
 * .hppはコンパイルしなくてもOK
 
-```cmd
+```bash
 cd c:\sample
 g++ -std=c++17 -o hoge main.cpp check.cpp
 ```
 
 ### 5. 実行コマンド & 結果
-```cmd
+
+```bash
 
 cd c:\sample
 ./hoge
