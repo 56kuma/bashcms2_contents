@@ -16,7 +16,7 @@ Copyright: (C) 2022 T.Masuda
 
 ### 1. 概要
 * C++において、hppファイルの在り方とコンパイル方法を記載
-* main.cpp が起動ファイル、かつ check.cpp / check.hpp を読み込んでいるとしたら、各ファイルがのソースがどのように関係しているかを知るのが目的
+* main.cpp が起動ファイル、かつ check.cpp / check.hpp を読み込んでいるとしたら、各ファイルの関係を知るのが目的
 
 ### 2. サンプルファイル各々の関係
 * 矢印先が include しているファイルとなる。
@@ -35,16 +35,16 @@ Copyright: (C) 2022 T.Masuda
 #include <iostream>
 
 class Check {
-  public:
-    // メンバー定数
-    static const std::string CAMERA_NAME;
-    static const int CAMERA_NO;
-    static const double CAMERA_PREFIX;
-    // メンバー変数
-    std::string DESCRIPTION;
-    // 静的メソッド
-    static void displayInt(int displayInt);
-    static void displayStr(const std::string &displayStr);
+    public:
+        // メンバー定数
+        static const std::string CAMERA_NAME;
+        static const int CAMERA_NO;
+        static const double CAMERA_PREFIX;
+        // メンバー変数
+        std::string DESCRIPTION;
+        // 静的メソッド
+        static void displayInt(int displayInt);
+        static void displayStr(const std::string &displayStr);
 };
 
 ```
@@ -108,6 +108,7 @@ g++ -std=c++17 -o hoge main.cpp check.cpp
 
 ### 5. 実行コマンド & 結果
 ```cmd
+
 cd c:\sample
 ./hoge
 
@@ -118,4 +119,5 @@ cd c:\sample
 > --- static method ---
 > displayInt:     123
 > displayStr:     Discount Item.
+
 ```
