@@ -3,7 +3,7 @@ Keywords: Books, Project, Business
 Copyright: (C) 2024 T.Masuda
 ---
 
-# BIG THINGS　どデカいことを成し遂げたヤツらはなにをしたのか？
+# BIG THINGS どデカいことを成し遂げたヤツらはなにをしたのか？
 
 ### ■1. 読もうと思ったきっかけ
 
