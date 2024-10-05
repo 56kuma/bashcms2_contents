@@ -37,4 +37,4 @@ Copyright: (C) 2024 T.Masuda
 
 ### ■4. LINK
 * [Amazon](https://www.amazon.co.jp/%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%AE%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%8B%E3%81%9F-89%E6%AD%B3%E3%80%81%E6%B0%97%E3%81%BE%E3%81%BE%E3%81%AB%E7%8B%AC%E5%AD%A6-%E5%8D%98%E8%A1%8C%E6%9C%AC-%E8%8B%A5%E5%AE%AE-%E6%AD%A3%E5%AD%90/dp/4120058018)
-* [ヨドバシ.com](https://www.yodobashi.com/product/100000009003816786/)
+* [ヨドバシ.com](https://www.yodobashi.com/product/100000009003857061/)
