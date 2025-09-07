@@ -34,6 +34,27 @@ Copyright: (C) 2025 T.Masuda
 * EPS（Earning Per Shere）
     * 1株あたりの利益
     * 求め方 … 当期純利益 / 発行済株式数
+* PBR（Price Book-value Ratio）
+    * 株価純資産倍率
+    * 株価 / BPS
+    * 定義 … 株価が1株あたり純資産（BPS = Book-value Per Share）の何倍かを示す指標
+    * PBR < 1倍 … 株価が純資産より安い = 割安とされることが多い。
+
+### ■4.1 調べてみた
+* TRUSCO中山
+    * Input, [令和7年12月期決算PDF](https://pdf.irpocket.com/C9830/bffO/pkWv/dJMv.pdf)
+        * (1)当期純利益 … 15,557百万円
+        * (2)期中発行済株式 … 65,940,959株
+        * (3)株価[2025年9月5日] … 2437円
+        * (4)純資産 … 179,428百万円
+    * EPS
+        * (1) / (2) = 235.94
+    * PER
+        * (3) / 235.94 = 10.32
+    * PBR
+        * BPS = (4) / (2) = 2721
+        * 2473(株価) / 2721(BPS) =  0.90
+ 
 
 ### ■5. LINK
 * [Amazon](https://www.amazon.co.jp/%E5%B0%8F%E8%AA%AC%E3%83%BB%E6%A0%AA%E5%BC%8F%E6%8A%95%E8%B3%87%E5%85%A5%E9%96%80by%E3%82%A8%E3%83%8A%E3%83%95%E3%83%B3-%E5%A4%A7%E6%9A%B4%E8%90%BD%E3%81%AE%E5%8B%9D%E8%80%85%E3%81%A8100%E5%80%8D%E6%A0%AA%E3%81%AE%E3%83%8E%E3%83%BC%E3%83%88-%E5%A5%A5%E5%B1%B1%E6%9C%88%E4%BB%81/dp/4296002392/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.6oSUIFWUPniooQbBsuhJNIjlWj94jNHXX3E_xGYAtgjYE5gP91DQGJSFhJVEkfAXSnVIVo6mCfbKBJaGmExwmDAT3IGF4y6ai161DLoNJeYgcu3jWKCdJA85EThxgSNBQsmRzFqcqLW6ZtfJQCD5oW7h3g43dqVZ9bBHdAGalVTAyO-zPfEU_el2-VbaPWPbphmnf1mhAFdHHVoHRg9PHINCp31stdvawus3A1HHxSLeSwSlAYxO08XAcCJX3AXuxcRkKHN2yWc1-HT4R615sgFipVAGTF7OK4rAAQvBa3k.4VR0q4TggZqeRKDlsS9DmTRZ5uv8lw1TayEwqXum_sY&qid=1757227313&sr=8-1)
