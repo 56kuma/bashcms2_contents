@@ -3,7 +3,7 @@ Keywords: Books
 Copyright: (C) 2025 T.Masuda
 ---
 
-# メタトレンド投資
+# はじめる力
 
 ### ■1. 読もうと思ったきっかけ
 
