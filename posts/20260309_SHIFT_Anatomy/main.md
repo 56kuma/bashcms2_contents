@@ -62,6 +62,6 @@ Copyright: (C) 2026 T.Masuda
 
 ### ■6. Task
 * 自分の市場価値を棚卸する
-  * 各種転職サービスの職務経歴書をアップデートする
-    * OpenWork
-    * ✅Linkedin
+    * 各種転職サービスの職務経歴書をアップデートする
+        * OpenWork
+        * ✅Linkedin
