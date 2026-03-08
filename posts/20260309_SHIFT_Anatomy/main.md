@@ -61,7 +61,7 @@ Copyright: (C) 2026 T.Masuda
 * ![image](./sfhit_1.jpg)
 
 ### ■6. Task
-* [ ] 自分の市場価値を棚卸する
+* 自分の市場価値を棚卸する
   * 各種転職サービスの職務経歴書をアップデートする
-    * [X] OpenWork
-    * [ ] Linkedin
+    * OpenWork
+    * Linkedin
