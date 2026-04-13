@@ -12,38 +12,17 @@ Copyright: (C) 2026 T.Masuda
 
 ### ■2. 印象に残った内容
 
-* XXX
+* 5章全て面白かった。強いていうなら、Chap3のロボットの話が一番記憶に残った。スマホの次はロボットかな。
 
 ### ■3. 気になった一文
 
-> P.18）子供時代の読書体験は「ワーキングメモリ」のサイズに最善に相関あり 
+> P.147）人型ロボットの値段が300万円だとします。...
 
-* 脳の中で一時的に情報を保持して別のことをする能力。テキスト情報から連想して考えることを繰り返すから鍛えられるのはわかる。
+* 自分だったら買うか？9000円/日。380円/時。できることによっては安すぎるな。
 
-> P.86）人間の脳が一度に処理できるオブジェクト数は3つまで  
+> P.162）プロを雇うのではなくプロの技だけを切り出して使う点です。 
 
-* 経験則でもそう感じる。電話番号とか、Top3とか。
+* ロボットに搭載するアプリを買うイメージ。今ではスマホのアプリをインストールするが、これがロボットになったらより人間の動きにに近いものがアプリ化される。
 
-> P.145）思い出す行為が海馬を刺激し、記憶をより強固に思い出しやすくする。 
-
-* 覚える = 思い出すを繰り返す。エビングハウスの忘却曲線方式は間違ってはいない。
-
-> P.162）「怒り」や「疑問」を元に本を選ぶこともあります。 
-
-* 「怒り」で本を選んだことは無かった。やってみる。
-
-### ■4. わからん言葉
-* ヒューリスティック
-    * 経験や先入観で直感的に、ある程度正解に近い答えを得ること
-* バーナム効果
-    * 誰もがあてはまる言葉が、まるで自分のことだと勘違いすること
-* スキーマ
-    * 過去の経験や知識に基づいて形成される、物事を理解するための脳内の枠組みやパターン 
-* バイガルニク効果
-    * 人は完了したものよりも、未完了のもののほうが記憶が残る。
-
-### ■5. やること
-* [ ] 「怒り」で本を選ぶ。
-
-### ■6. LINK
-* [Amazon](https://www.amazon.co.jp/%E8%AA%AD%E6%9B%B8%E3%81%99%E3%82%8B%E8%84%B3-SB%E6%96%B0%E6%9B%B8-709-%E6%AF%9B%E5%86%85%E6%8B%A1/dp/4815633363/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1NI4WG98U6S5U&dib=eyJ2IjoiMSJ9.To7qrH-EL9deSe8Iog6mKs458ZZmr8P3CmaBKJfuJcNdfS5NTs1QnU2hibaD_HC-FAjl56p-BXaUB9yQ7jp99Xlnem3LXq47BXbdepkZsrKK6xDyA31WA_31uuYb3Cqj_0N3naflZmjfXiBCsEM6yQdQiRyt4-_Ka1oO4p6Y5suqAQ9RrZnkdRUJBbE7EljEYSgd4YpW8fsrKKdDireFX552FtyoY2iHU7VsBgbNhnsvnOdvUvosZoTIvqLUOVkXg1L8Fg-DHXKk0UbpakvQ7N8cnx3eZ0SiJj8-ZkBHfcA.mCkz9bDJbdUqQK6XLbTaGtcaQw3f2rl_-1CdDyb2Hzc&dib_tag=se&keywords=%E8%AA%AD%E6%9B%B8%E3%81%99%E3%82%8B%E8%84%B3&qid=1776089224&sprefix=%E8%AA%AD%E6%9B%B8%E3%81%99%E3%82%8B%E8%84%B3%2Caps%2C179&sr=8-1)
+### ■4. LINK
+* [Amazon](https://www.amazon.co.jp/%EF%BC%92%EF%BC%90%EF%BC%93%EF%BC%94-%E6%9C%AA%E6%9D%A5%E4%BA%88%E6%B8%AC%E2%80%95%E2%80%95AI%EF%BC%88%E3%81%8D%E3%81%BF%EF%BC%89%E3%81%AE%E3%81%84%E3%82%8B%E6%98%8E%E6%97%A5-%E4%B8%AD%E5%B3%B6%E8%81%A1-ebook/dp/B0GCHJ5QXB/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3SDBXKJ4LX7UQ&dib=eyJ2IjoiMSJ9.fKwMy5NPotNahWLzoMp0-taPJHkLRe349-_2RKPirhgR3usvnVAhHYyawDEOfK3mDpwf6XKiyfSzQYOrNOp0WonWng5R7AiQzXNYmxurHRi_rMfnY4ZOl3zTD1O8MiOOdnlFFMW4YxJNzGN7TNq2YHcRXQdbR4zigN0s-AkI7sa-ZOadoS0lO0WlMe7KGIQ6hgJ0urpSaymtBUzToJ2TriVcAV4V6izswzZeFrlFP8RhQ1sK-vkc-jFvfTRVTtc0PTVT5UFeN_6fPCC_piyPMG4Txv3dIVJkoepvD5ZobxQ.9zYG3FjmqXedPxbIog9fPYNfqhkqipylEGqgOX0_m6Y&dib_tag=se&keywords=2034&qid=1776091802&sprefix=2034%2Caps%2C193&sr=8-1)
