@@ -1,7 +1,7 @@
 ---
 Keywords: Books
 Copyright: (C) 2025 T.Masuda
-Copyright: 4492048014
+Cover: 4492048014
 ---
 
 # 毎日がんばるあなたのための疲労学
