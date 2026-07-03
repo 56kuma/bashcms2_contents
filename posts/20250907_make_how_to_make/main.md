@@ -1,6 +1,7 @@
 ---
 Keywords: Books
 Copyright: (C) 2025 T.Masuda
+Cover: 4865284753
 ---
 
 # 作り方を作る
